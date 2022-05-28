@@ -1,0 +1,15 @@
+{
+  "name": "doitfast",
+  "version": "1.0.0",
+  "description": "a collection of helper functions to make your life easy",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "fwf"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Afify",
+  "license": "MIT"
+}
